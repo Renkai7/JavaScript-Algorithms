@@ -46,6 +46,8 @@ function anotherFunChallenge(input) {
 
 // Rules of Big O
 // 1. Worst Case
+// Have to consider things will not go well
 // 2. Remove Constants
+// All numbers become 1, if there is a number and an 'n' then remove the numbers
 // 3. Different terms for inputs
 // 4. Drop Non Dominants
