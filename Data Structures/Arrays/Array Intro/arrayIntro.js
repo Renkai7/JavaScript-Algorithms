@@ -2,6 +2,7 @@
 // The elements of an array are stored in contiguous memory locations
 // Arrays are of two types : Static and Dynamic
 // Static arrays have fixed, pre-defined amount of memory that they can use, whereas in dynamic arrays this is flexible
+// JavaScript uses dynamic arrays
 
 // Look-up/Accses - O(1)
 // Push/Pop - O(1)*
